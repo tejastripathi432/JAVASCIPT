@@ -1,6 +1,6 @@
-const accountId =144422
-let accountEmail = "tejas@gmail.com"
-var accountPassword = "13423"
-accountCity = "Jaipur"
-let accountState;
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+const accountId =1234
+let accountEmail ="tejas@1234"
+var accountcity ="jaipur"
+let accountState ="Rajasthan"
+accountId=2
+console.table([accountId, accountEmail, accountcity, accountState])
